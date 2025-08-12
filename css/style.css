@@ -8541,7 +8541,7 @@ Section Title
     display: none;
   }
 }
-.service-card-items-4:hover .service-icon .icon i {
+.service-card-items-4:hover .service-icon .icon img {
   -webkit-transform: rotateY(360deg);
           transform: rotateY(360deg);
 }
@@ -21262,7 +21262,7 @@ Sidebar
 
 .footer-bottom {
   background: #183130;
-  padding: 30px 0;
+  padding: 10px 0;
 }
 .footer-bottom p {
   text-align: center;

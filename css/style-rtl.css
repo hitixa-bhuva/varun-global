@@ -8541,7 +8541,7 @@ Section Title
     display: none;
   }
 }
-.service-card-items-4:hover .service-icon .icon i {
+.service-card-items-4:hover .service-icon .icon img {
   -webkit-transform: rotateY(-360deg);
           transform: rotateY(-360deg);
 }
