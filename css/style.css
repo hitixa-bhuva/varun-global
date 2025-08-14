@@ -21479,3 +21479,18 @@ Sidebar
     display: none;
   }
 }
+@media (max-width: 430px) {
+    .project-1{
+        width: 100% !important;
+    }
+    .project-1 .ks-project-panel{
+      max-width: 100% !important;
+      width: 100% !important; 
+    }
+}
+.project-1{
+   width: 1290px;
+}
+.project-1 .ks-project-panel{
+max-width: 1290px; width: 1290px; 
+}
