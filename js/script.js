@@ -790,7 +790,7 @@ var THEMEMASCOT = {};
 				}
 				valueContainer.textContent = `${currentValue}%`;
 				progress.style.background = `conic-gradient(
-					#C8F169 ${currentValue * 3.6}deg,
+					#EFCF06 ${currentValue * 3.6}deg,
 					#D4D4D4 ${currentValue * 3.6}deg
 				)`;
 	
