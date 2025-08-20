@@ -23,11 +23,11 @@ echo
 
     <div class="th-menu-wrapper">
         <div class="th-menu-area text-center"><button class="th-menu-toggle"><i class="fal fa-times"></i></button>
-            <div class="mobile-logo"><a class="icon-masking" href="home"><span data-mask-src="assets/img/logo.svg"
+            <div class="mobile-logo"><a class="icon-masking" #><span data-mask-src="assets/img/logo.svg"
                         class="mask-icon"></span><img src="assets/img/logo.svg" alt="Webteck"></a></div>
             <div class="th-mobile-menu">
                 <ul>
-                    <li><a href="home" class=" ' ?><?php if ($page == "index.php") {
+                    <li><a # class=" ' ?><?php if ($page == "index.php") {
                                     echo 'active';
                                 } ?><?php echo '">Home</a></li>
                     <li><a href="about" class="active">About Us</a></li>
@@ -72,13 +72,13 @@ echo
                 <div class="container th-container4">
                     <div class="row align-items-center justify-content-between">
                         <div class="col-auto">
-                            <div class="header-logo"><a class="" href="home"><img src="./assets/img/logo/MetaCore-It-Solutions-Logo.svg"
+                            <div class="header-logo"><a class="" #><img src="./assets/img/logo/MetaCore-It-Solutions-Logo.svg"
                                         alt="Webteck" class="w-50"></a></div>
                         </div>
                         <div class="col-auto">
                             <nav class="main-menu style2 d-none d-lg-inline-block">
                                 <ul>
-                                    <li><a href="home" class=" ' ?><?php if ($page == "index.php") {
+                                    <li><a # class=" ' ?><?php if ($page == "index.php") {
                                     echo 'active';
                                 } ?><?php echo '">Home</a></li>
                                     <li><a href="about"class=" ' ?><?php if ($page == "about.php") {
