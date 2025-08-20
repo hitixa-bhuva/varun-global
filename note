@@ -1,0 +1,14 @@
+
+    <?php
+$Title = "Custom Software Development Company | MetaCore Solution";
+$MetaDescription = "MetaCore offers tailored software development to meet your business needs — scalable, secure, and future-ready.";
+$MetaKeywords = "custom software, software development company, enterprise solutions, application development, MetaCore software";
+?>
+
+<?php
+include __DIR__ . '/A_Layout/Header/header.php';
+?>
+
+<?php
+include __DIR__ . '/A_Layout/Footer/footer.php';
+?>
