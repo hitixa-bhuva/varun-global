@@ -1,27 +1,28 @@
 <?php
 echo
 '
-    
-    <script src=" assets/js/vendor/jquery-3.7.1.min.js"></script>
-    <script src=" assets/js/swiper-bundle.min.js"></script>
-    <script src=" assets/js/bootstrap.min.js"></script>
-    <script src=" assets/js/jquery.magnific-popup.min.js"></script>
-    <script src=" assets/js/jquery.counterup.min.js"></script>
-    <script src=" assets/js/circle-progress.js"></script>
-    <script src=" assets/js/jquery-ui.min.js"></script>
-    <script src=" assets/js/imagesloaded.pkgd.min.js"></script>
-    <script src=" assets/js/isotope.pkgd.min.js"></script>
-    <script src=" assets/js/tilt.jquery.min.js"></script>
-    <script src=" assets/js/ScrollTrigger.min.js"></script>
-    <script src=" assets/js/smooth-scroll.js"></script>
-    <script src=" assets/js/particles.min.js"></script>
-    <script src=" assets/js/particles-config.js"></script>
-    <script src=" assets/js/imageRevealHover.js"></script>
-    <script src=" assets/js/main.js"></script>
-    <script src=" assets/js/dev-custom.js"></script>
-    <script src=" assets/js/whatsapp.js"></script>
-    <script src=" assets/js/loader.js"></script>
-    <script src=" assets/js/Contact-mail.js"></script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="js/jquery.js"></script> 
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.fancybox.js"></script>
+<script src="js/jquery-ui.js"></script>
+<script src="js/gsap.js"></script>
+<script src="js/gsap-scroll-to-plugin.js"></script>
+<script src="js/gsap-scroll-smoother.js"></script>
+<script src="js/gsap-scroll-trigger.js"></script>
+<script src="js/gsap-split-text.js"></script>
+<script src="js/split-type.min.js"></script>
+<script src="js/parallaxie.js"></script>
+<script src="js/wow.js"></script>
+<script src="js/bxslider.js"></script>
+<script src="js/nice-select.min.js"></script>
+<script src="js/knob.js"></script>
+<script src="js/appear.js"></script>
+<script src="js/swiper.min.js"></script>
+<script src="js/mixitup.js"></script>
+<script src="js/script.js"></script>
+<script src="js/whatsapp.js"></script>
+<script src="js/Contact-mail.js"></script>
 
 </body>
 

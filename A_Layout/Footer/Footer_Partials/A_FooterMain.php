@@ -50,108 +50,105 @@ echo
   </div>
 </div>
 
- <footer class="footer-wrapper footer-layout5 footer-layout23" data-bg-src="assets/img/bg/footer_bg_18.jpg">
-        <div class="container th-container4">
-            <div class="widget-area">
-                <div class="row justify-content-between">
-                    <div class="col-md-6 col-xxl-3 col-xl-3">
-                        <div class="widget footer-widget">
-                            <h3 class="widget_title style2 text-white">About Company</h3>
-                            <div class="th-widget-about style2">
-                                <p class="about-text">MetaCore IT Solution delivers innovative software and mobile app
-                                    solutions tailored to modern business needs.</p>
-                                <div class="th-social"><a href="https://www.facebook.com/"><i
-                                            class="fab fa-facebook-f"></i></a> <a href="https://www.twitter.com/"><i
-                                            class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/"><i
-                                            class="fab fa-linkedin-in"></i></a> <a href="https://www.youtube.com/"><i
-                                            class="fab fa-youtube"></i></a></div>
-                            </div>
-                        </div>
+	<!-- Footer Section Start -->
+	<footer class="footer-section-1 fix footer-bg bg-cover" style="background-image: url(images/home-1/footer-shape.png)">
+        <span class="circle-shape"></span>
+        <span class="circle-shape-2"></span>
+        <div class="auto-container">
+          <div class="footer-widget-wrapper">
+            <div class="row justify-content-between">
+              <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay=".2s">
+                <div class="footer-widget-items mt-30">
+                  <div class="widget-title mb-25">
+                    <a # class="footer-logo">
+                      <img src="images/footerlogo.png" alt="img" />
+                    </a>
+                  </div>
+                  <div class="footer-content">
+                    <p>everyone with high and useful reward for his/her trading</p>
+                    <div class="social-icon">
+                      <a href="mailto:varunglobaledu@gmail.com">
+                        <i class="fa-solid fa-envelope"></i>
+                      </a>
+                      <a href="https://wa.me/918780907831" target="_blank" rel="noopener noreferrer">
+                        <i class="fa-brands fa-whatsapp"></i>
+                      </a>
+                       <a href="https://www.instagram.com/varunglobalservices_nikol/?igsh=MWZ4Zmg5a3Rnem9waA%3D%3D#"><i class="fa-brands fa-instagram"></i></a>
                     </div>
-                    <div class="col-md-6 col-xxl-3 col-xl-3">
-                        <div class="widget widget_nav_menu footer-widget">
-                            <h3 class="widget_title style2 text-white">Services</h3>
-                            <div class="menu-all-pages-container">
-                                <ul class="menu">
-                                    <li><a href="iOS&androidAppDevelopment">iOS & Android App Development</a></li>
-                                    <li><a href="cross-platform-app-development">Cross Platform App Development</a>
-                                    </li>
-                                    <li><a href="web-development">Web Development</a></li>
-                                    <li><a href="custom-software-development">Custom Software Development</a></li>
-                                    <li><a href="ux-design">UI/UX Design </a></li>
-                                    <li><a href="ai-machine-learning-development">AI & ML Development</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-xxl-3 col-xl-3">
-                        <div class="widget widget_nav_menu footer-widget">
-                            <h3 class="widget_title style2">Solution</h3>
-                            <div class="menu-all-pages-container">
-                                <ul class="menu">
-                                    <li><a href="health-care-solution">HealthCare Solution</a></li>
-                                    <li><a href="hospitalitymanagement">Hospitality Management</a></li>
-                                    <li><a href="hotel-management">Hotel Management</a></li>
-                                    <li><a href="billing-accounting-software">Billing & Accounting Software</a></li>
-                                    <li><a href="education-technology-solution">Education Technology Solution</a>
-                                    </li>
-                                    <li><a href="RetailE-Commercesolution">Retail and E-Commerce Solution</a></li>
-                                    <li><a href="realestate-property-management">Real Estate & Property
-                                            Management</a></li>
-                                    <li><a href="logistic-management">Logistic Management</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-xxl-3 col-xl-3">
-                        <div class="widget widget_offer footer-widget">
-                            <h3 class="widget_title style2 text-white">Say Hello</h3>
-                            <div class="contact-info-container">
-                                <ul class="list-unstyled text-white">
-                                    <li class="mb-2">
-                                        <i class="fas fa-phone-alt me-2"></i>
-                                        <a href="tel:+911234567890" class="text-white text-decoration-none">+91 12345
-                                            67890</a>
-                                    </li>
-                                    <li class="mb-2">
-                                        <i class="fas fa-envelope me-2"></i>
-                                        <a href="mailto:info@example.com"
-                                            class="text-white text-decoration-none">info@example.com</a>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-map-marker-alt me-2"></i>
-                                        <span>123, Unique Street, Ahmedabad, Gujarat, India</span>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
+                  </div>
                 </div>
-            </div>
-            <div class="copyright-wrap">
-                <div class="row justify-content-between align-items-center">
-                    <div class="col-lg-6">
-                        <p class="copyright-text">Copyright: <i class="fal fa-copyright"></i> © 2025 . All Rights
-                            Reserved by <a href="https://themeforest.net/user/themeholy">MetaCore IT Solution </a></p>
-                    </div>
-                    <div class="col-lg-6 text-center text-md-end">
-                        <ul class="footer-menu">
-                            <li><a href="about">About Us</a></li>
-                            <li><a href="service">service</a></li>
-                            <li><a href="solution">Solution</a></li>
-                            <li><a href="blog">Blog</a></li>
-                            <li><a href="contact">Contact</a></li>
-                        </ul>
-                    </div>
+              </div>
+              <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay=".4s">
+                <div class="footer-widget-items mt-30">
+                  <div class="widget-title mb-25">
+                    <h3 class="font-size-24 text-white font-weight-500">Company</h3>
+                  </div>
+                  <ul class="user-links">
+                    <li><a #>Home</a></li>
+                    <li><a href="about">About Us</a></li>
+                    <li><a href="study-abroad-services">Study Abroad Services</a></li>
+                    <li><a href="financial-services">Finacial Services</a></li>
+                    <li><a href="countries">Countries</a></li>
+                    <li><a href="contact">Contact Us</a></li>
+                  </ul>
                 </div>
+              </div>
+              <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay=".6s">
+                <div class="footer-widget-items mt-30">
+                  <div class="widget-title mb-25">
+                    <h3 class="font-size-24 text-white font-weight-500">Countries</h3>
+                  </div>
+                  <ul class="user-links">
+                    <li><a href="countries">United Kingdom</a></li>
+                    <li><a href="countries">United States of America (USA)</a></li>
+                    <li><a href="countries">Canada</a></li>
+                    <li><a href="countries">Dubai</a></li>
+                    <li><a href="countries">Czech Republic</a></li>
+                    <li><a href="countries">New Zealand</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay=".8s">
+                <div class="footer-widget-items mt-30">
+                  <div class="widget-title mb-25">
+                    <h3 class="font-size-24 text-white font-weight-500">Contact Us</h3>
+                  </div>
+                  <ul class="contact-list">
+                    <li>
+                      <i class="lnr-icon-phone-handset"></i>
+                      <p><a href="tel:+919909906605">+91 99099 06605</a></p>
+                      <p><a href="tel:+919909906440">+91 99099 06440</a></p>
+                    </li>
+                    <li>
+                       <i class="lnr-icon-envelope"></i>
+                      <p><a href="mailto:varunglobaledu@gmail.com">varunglobaledu@gmail.com</a> </p>
+                    </li>
+                    <li>
+                      <i class="lnr-icon-map-marker"></i>
+                      <p>
+                        <a href="https://www.google.com/maps/search/?api=1&query=207+Town+Plaza%2C+Raspan+Cross+Rd%2C+New+India+Colony%2C+Nikol%2C+Ahmedabad%2C+Gujarat+382345" 
+                           target="_blank" 
+                           rel="noopener noreferrer">
+ 207 Town Plaza,Raspan Cross Rd,New India Colony,Nikol,Ahmedabad, Gujarat 382345
+                        </a>
+                      </p>
+                    </li>
+                  </ul>
+                </div>
+              </div>
             </div>
+          </div>
         </div>
-    </footer>
-    <div class="scroll-top"><svg class="progress-circle svg-content" width="100%" height="100%" viewbox="-1 -1 102 102">
-            <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"
-                style="transition: stroke-dashoffset 10ms linear 0s; stroke-dasharray: 307.919, 307.919; stroke-dashoffset: 307.919;">
-            </path>
-        </svg></div>
+        <div class="footer-bottom">
+          <div class="auto-container">
+            <p class="wow fadeInUp" data-wow-delay=".3s">Made with ❤️ by <a class="text-white" href="https://in.linkedin.com/in/patel-hitixa">Hitixa Bhuva</a></p>
+          </div>
+        </div>
+      </footer>
+
+	
+
+</div><!-- End Page Wrapper -->
 
 '
     ?>
