@@ -8,12 +8,12 @@ Header always set Content-Security-Policy "upgrade-insecure-requests"
 ErrorDocument 404 /page-404.html	
 
 # Rewrite rules for clean URLs
-RewriteRule ^home$ index.php [L,NC]
-RewriteRule ^about$ about.php [L,NC]
-RewriteRule ^countries$ countries.php [L,NC]
-RewriteRule ^financial-services$ financial-services.php [L,NC]
-RewriteRule ^study-abroad-services$ study-abroad-services.php [L,NC]
-RewriteRule ^contact$ contact.php [L,NC]
+RewriteRule ^home$ index.html [L,NC]
+RewriteRule ^about$ about.html [L,NC]
+RewriteRule ^countries$ countries.html [L,NC]
+RewriteRule ^financial-services$ financial-services.html [L,NC]
+RewriteRule ^study-abroad-services$ study-abroad-services.html [L,NC]
+RewriteRule ^contact$ contact.html [L,NC]
 
 RewriteRule ^siteMap$ sitemap.php [L,NC]
 
